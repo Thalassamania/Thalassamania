@@ -1,16 +1,23 @@
-## Hi there 👋
+I'm a software engineer who likes math, data, DevOps, and coding. I really enjoy learning new things, solving problems, and understanding how systems work under the hood.
 
-<!--
-**Thalassamania/Thalassamania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m especially drawn to projects that mix logic, structure, and creativity; whether that means working with data pipelines, APIs, cloud tools, or just building something that feels technically satisfying.
 
-Here are some ideas to get you started:
+Outside of tech, I also love anime, manga, and video games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I should also admit that I love starting projects, but finishing every single one of them... that’s a different story 😅. Still, I keep building, keep learning, and keep getting better.
+
+## Things I enjoy
+- Math
+- Data
+- Coding
+- Learning deeply
+- Solving problems
+- Anime/Manga
+- Video games
+
+## Areas I'm exploring
+- Data engineering
+- Salesforce
+- Machine learning pipelines
+- DevOps
+- Cloud and platform engineering
